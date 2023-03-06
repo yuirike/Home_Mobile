@@ -58,6 +58,7 @@ int main(void)
         {
             printf("%d ", dotP(M1[i], M2[j], n));
         }
-        printf("\n\n");
-    }
+        printf("\n");
+     }
+     printf("\n");
 }
